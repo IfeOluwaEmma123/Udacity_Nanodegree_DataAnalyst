@@ -84,11 +84,11 @@ If you do not have Python installed yet, it is highly recommended that you insta
 In a terminal or command window, navigate to the top-level project directory `Project1_Investigate_a_Dataset/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook report.ipynb
+ipython notebook Investigate_TMBD_Dataset.ipynb
 ```  
 or
 ```bash
-jupyter notebook report.ipynb
+jupyter notebook Investigate_TMBD_Dataset.ipynb
 ```
 
 or if you have 'Jupyter Lab' installed
