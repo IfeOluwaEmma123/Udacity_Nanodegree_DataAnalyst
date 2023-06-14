@@ -14,4 +14,4 @@ A collection of my projects for Udacity  [Data Analyst Nanodegree](https://www.u
 * Project 2: Data Wrangling with Python - WeRateDogs Twitter account data
 * Project 3: Prosper Loan Data Exploration
 
-![Certificate](certificate.jpg)
+<p align="center"><img src="certificate.jpg"></p>
