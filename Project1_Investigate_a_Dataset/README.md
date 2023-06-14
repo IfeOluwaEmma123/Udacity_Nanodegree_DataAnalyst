@@ -46,7 +46,7 @@ The significance of this project lies in the comprehensive exploration of the da
 
 #### Files Used
 
-This project contains 2 files and 2 folder:
+This project contains 6 files:
 - `tmdb-movies.csv` : The dataset file containing 10k+ entries of movies that I have worked on. 
 - `Investigate_TMBD_Dataset.ipynb` : The investigation of the dataset has been done in this jupyter notebook file. 
 - `Investigate_TMBD_Dataset.html` : Folder containing HTML file of notebook.
