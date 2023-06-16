@@ -58,3 +58,5 @@ Analyze and visualize your wrangled data in your <code><mark>wrangle_act.ipynb</
 Create a **300-600 word written report** called <code><mark>wrangle_report.pdf</mark></code> that briefly describes your wrangling efforts. This is to be framed as an internal document.
 
 Create a **>250 word written report** called <code><mark>act_report.pdf</mark></code> that communicates the insights and displays the visualization(s) produced from your wrangled data. This is to be framed as an external document, like a blog post or magazine article, for example.
+
+[Link to My Solution](https://IfeOluwaEmma123.github.io/Udacity_Nanodegree_DataAnalyst/Project2_Wrangle_and_Analyze_Data/wrangle_report.html)
