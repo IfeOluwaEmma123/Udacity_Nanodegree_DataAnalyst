@@ -1,7 +1,11 @@
 # Project 1 - Investigate a Dataset
 ## Project Title: Investigate TMDb Movie Database 
 
-<p align="center"><img src="Image.jpg"></p>
+<div align="center">
+  <img src="Image.jpeg" alt="Image Alt Text" style="width: 100%; height: auto;">
+</div>
+
+
 
 ----
 
